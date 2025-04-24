@@ -10,8 +10,8 @@ dependencies = [
     "mcp-haystack",
     "nest-asyncio>=1.6.0",
     "mcp-alchemy>=2025.4.16.110003",
-    "psycopg2-binary>=2.9.10",
     "anthropic-haystack>=2.4.1",
+    "psycopg2-binary>=2.9.10",
 ]
 
  
